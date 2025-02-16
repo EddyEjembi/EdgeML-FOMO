@@ -1,5 +1,5 @@
 
-## ** Introduction**
+## **Introduction**
 Read the full article on [Here](https://medium.com/@eddyejembi/tiny-ml-bringing-ai-to-the-edge-9d89d7d779c4)
 
 In this project, I built a lightweight image classification model, drawing inspiration from [Edge Impulse’s](https://edgeimpulse.com/) [FOMO](https://www.edgeimpulse.com/blog/announcing-fomo-faster-objects-more-objects/) by modifying the [**MobileNetV2**](https://arxiv.org/abs/1801.04381) architecture, optimizing it for the Edge, and converting it into **ONNX and TensorFlow Lite Micro** formats for deployment.
